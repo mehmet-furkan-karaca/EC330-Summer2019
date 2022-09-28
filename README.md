@@ -2,7 +2,6 @@
 This repository includes the syllabus for EC330 - Money, Banking, and Financial Markets (Summer 2019).
 
 
-Contact and Office Hours
 Instructor: Mehmet F. Karaca
 Email: karacame[at]msu.edu
 
